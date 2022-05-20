@@ -38,7 +38,7 @@ export default function BodyHome() {
       </div>
 
       <img
-        src="/asset/homelogo.jpeg"
+        src="/asset/homelogo.png"
         alt="gambar"
         style={{
           maxWidth: "100vw",
